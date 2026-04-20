@@ -125,7 +125,8 @@ Generates multiple intermediate representations:
 ---
 
 ## Screenshot
-<img width="1904" height="934" alt="Screenshot 2026-04-20 102838" src="https://github.com/user-attachments/assets/cd2dae50-2af5-4f0f-8a6d-1193dd53f14a" />
+<img width="1904" height="934" alt="Screenshot 2026-04-20 102838" src="https://github.com/user-attachments/assets/38cc4c6f-8daa-489a-a08f-6d37208cc67a" />
+
 
 ---
 ## 🚀 Future Enhancements
